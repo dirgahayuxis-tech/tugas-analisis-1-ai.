@@ -1,0 +1,20 @@
+{
+  "kalimat": "Kucing itu tidak melompati pagar karena ia terlalu tinggi",
+  "seed": 42,
+  "jumlah_token": 9,
+  "dimensi": 16,
+  "bobot_ia": {
+    "Kucing": 0.11288108743367413,
+    "tinggi": 0.11255219075874788,
+    "pagar": 0.11170514835630091,
+    "itu": 0.11082723608214924,
+    "tidak": 0.11074331658098294,
+    "melompati": 0.11069396400338373,
+    "karena": 0.11025938575606091,
+    "ia": 0.11019757625826594,
+    "terlalu": 0.11014009477043434
+  },
+  "minimum": 0.10943561212171414,
+  "maksimum": 0.11288108743367413,
+  "catatan": "Simulasi dengan bobot acak dan modifikasi key manual, tanpa pelatihan."
+}
